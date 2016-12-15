@@ -1,0 +1,94 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "gulp-svg2json-spritesheet@0.0.1",
+        "scope": null,
+        "escapedName": "gulp-svg2json-spritesheet",
+        "name": "gulp-svg2json-spritesheet",
+        "rawSpec": "0.0.1",
+        "spec": "0.0.1",
+        "type": "version"
+      },
+      "C:\\volatiles\\dev\\volanode"
+    ]
+  ],
+  "_from": "gulp-svg2json-spritesheet@0.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/gulp-svg2json-spritesheet",
+  "_nodeVersion": "4.2.6",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/gulp-svg2json-spritesheet-0.0.1.tgz_1481630481796_0.9593274549115449"
+  },
+  "_npmUser": {
+    "name": "flomair",
+    "email": "f.mair@gmx.net"
+  },
+  "_npmVersion": "3.5.2",
+  "_phantomChildren": {
+    "argparse": "1.0.9",
+    "clap": "1.1.2",
+    "coa": "1.0.1",
+    "colors": "1.1.2",
+    "esprima": "2.7.3",
+    "mkdirp": "0.5.1",
+    "readable-stream": "2.1.5",
+    "sax": "1.2.1",
+    "source-map": "0.5.6",
+    "whet.extend": "0.9.9",
+    "xtend": "4.0.1"
+  },
+  "_requested": {
+    "raw": "gulp-svg2json-spritesheet@0.0.1",
+    "scope": null,
+    "escapedName": "gulp-svg2json-spritesheet",
+    "name": "gulp-svg2json-spritesheet",
+    "rawSpec": "0.0.1",
+    "spec": "0.0.1",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gulp-svg2json-spritesheet/-/gulp-svg2json-spritesheet-0.0.1.tgz",
+  "_shasum": "5f4710b7208d6d278ca46803b8b25b6bfda3730e",
+  "_shrinkwrap": null,
+  "_spec": "gulp-svg2json-spritesheet@0.0.1",
+  "_where": "C:\\volatiles\\dev\\volanode",
+  "bugs": {
+    "url": "https://github.com/flomair/gulp-svg2json-spritesheet/issues"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "svgo": "^0.6.6",
+    "through2": "^2.0.1",
+    "lodash" : "^4.17.2",
+    "base-64":"^0.1.0"
+  },
+  "description": "Compress SVGs into a JSON spritesheet.",
+  "devDependencies": {},
+  "directories": {},
+  "files": [
+    "index.js"
+  ],
+  "homepage": "https://github.com/flomair/gulp-svg-to-json-to-sass#readme",
+  "keywords": [
+    "gulpplugin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    "flomair <flomair@github.com>"
+  ],
+  "name": "gulp-svg-to-json-to-sass",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flomairgulp-svg-to-json-to-sass.git"
+  },
+  "scripts": {},
+  "version": "0.0.1",
+  "author": "flomair@github.com"
+}
