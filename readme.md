@@ -34,6 +34,7 @@ gulp.task('default', function() {
 ### Sample Output
 
 images/foo/svg/fireplace_00000.svg
+
 images/foo/svg2/fireplace_00001.svg
 
 will result in 
