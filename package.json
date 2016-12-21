@@ -4,7 +4,14 @@
   "description": "gulp-svg-to-json-to-scss",
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "base-64": "^0.1.0",
+    "gulp-util": "^3.0.7",
+    "lodash": "^4.17.2",
+    "path": "^0.12.7",
+    "svgo": "^0.7.1",
+    "through2": "^2.0.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
