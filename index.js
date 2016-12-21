@@ -1,11 +1,11 @@
 'use strict';
 var gutil = require('gulp-util');
 var File = gutil.File;
-var through = require('through2');
-var SVGO = require('svgo');
+var through = require("through2");
+var SVGO = require("svgo");
 var path = require("path")
-var _ = require('lodash');
-var btoa = require('base-64').encode;
+var _ = require("lodash");
+var btoa = require("base-64").encode;
 
 
 /**
