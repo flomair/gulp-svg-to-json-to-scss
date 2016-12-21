@@ -34,6 +34,7 @@ gulp.task('default', function() {
 ### Sample Output
 
 images/foo/svg/fireplace_00000.svg
+
 images/foo/svg2/fireplace_00001.svg
 
 will result in 
@@ -60,8 +61,8 @@ images.json
 
 _images.scss
 ```scss
-$svg_fireplace_00000: 'data:image/svg+xml;base64,PHN2ZyB4bWxuc.....NMjEuNSAyMS41aDEyMHYxMjBoLTEyMHoiLz48L3N2Zz4=';
-$svg2_fireplace_00001: 'data:image/svg+xml;base64,PHN2ZyB4bWxuc....mciIHdpZHRoRlci1ldmVudHM9Im5vbmUiLz48L3N2Zz4=';
+$foo_svg_fireplace_00000: 'data:image/svg+xml;base64,PHN2ZyB4bWxuc.....NMjEuNSAyMS41aDEyMHYxMjBoLTEyMHoiLz48L3N2Zz4=';
+$foo_svg2_fireplace_00001: 'data:image/svg+xml;base64,PHN2ZyB4bWxuc....mciIHdpZHRoRlci1ldmVudHM9Im5vbmUiLz48L3N2Zz4=';
 ```
 
 ## API
